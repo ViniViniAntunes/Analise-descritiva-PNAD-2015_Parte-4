@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://www.alura.com.br/assets/api/cursos/estatistica-correlacao-regressao.svg" float="center" width=20%/>
-  <p align="center"><strong align="center">Statistics</strong></p>
+  <img src="https://image.freepik.com/vetores-gratis/conjunto-de-engenheiros-de-construtores-de-trabalhadores-e-tecnico_1284-13127.jpg" float="center" width=20%/>
+  <p align="center"><strong align="center">(Em construção)</strong></p>
 </h1>
 <br>
 
