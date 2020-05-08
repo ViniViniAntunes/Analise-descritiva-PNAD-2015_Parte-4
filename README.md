@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://image.freepik.com/vetores-gratis/conjunto-de-engenheiros-de-construtores-de-trabalhadores-e-tecnico_1284-13127.jpg" float="center" width=20%/>
+  <img src="https://image.freepik.com/vetores-gratis/conjunto-de-engenheiros-de-construtores-de-trabalhadores-e-tecnico_1284-13127.jpg" float="center" width=40%/>
   <p align="center"><strong align="center">(Em construção)</strong></p>
 </h1>
 <br>
